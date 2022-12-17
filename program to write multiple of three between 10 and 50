@@ -1,0 +1,10 @@
+i=0
+for i in range(10,51):
+    if(i%3==0):
+        print(i)
+#this same thing done with while loop
+i=10
+while i<=50:
+    if i%3==0:
+        print(i)
+    i=i+1
