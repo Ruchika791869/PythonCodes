@@ -1,0 +1,5 @@
+print(divmod(9,2))
+
+
+Output:
+(4,1)
